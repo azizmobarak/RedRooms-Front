@@ -1,0 +1,31 @@
+.btnsend {
+    margin-right: 0%;
+    margin-left: 0%;
+    margin-top: 3%;
+    width: 20%;
+}
+
+#msg {
+    margin-left: 0%;
+    width: 90%;
+    font-weight: normal;
+}
+
+.btnvideo {
+    margin-left: 1%;
+    margin-top: 3%;
+}
+
+.allform {
+    margin-left: 10%;
+}
+
+.scrolledarea {
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.thecontainer {
+    align-items: center;
+    margin-left: 7%;
+}

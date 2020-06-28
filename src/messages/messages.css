@@ -1,0 +1,36 @@
+.listmsg {
+    list-style: none;
+    margin-left: 3%;
+    max-width: 100%;
+}
+
+.currentusermsg {
+    text-align: right;
+    background-color: blue;
+    width: 80%;
+    margin-right: 2%;
+    color: white;
+}
+
+p {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.otherusermsg {
+    background-color: tomato;
+    color: white;
+    width: 80%;
+}
+
+.otheruser {
+    position: relative;
+    color: gray;
+    margin-left: 20%;
+}
+
+.currentuser {
+    position: relative;
+    color: gray;
+    margin-right: 20%;
+}

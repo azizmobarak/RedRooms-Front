@@ -1,0 +1,7 @@
+.roomswor {
+    flex: content;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%;
+    padding: 3%;
+}
